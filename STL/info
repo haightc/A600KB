@@ -1,4 +1,8 @@
 using low profile caps, see low profile directory pulled directly form A600v2 master /wo modification
-A600-7U-Spacebar-Assembly.stl:  Using a 7u spacebar, usually special order.   3d printable spacebar coming soon
+A600-7U-Spacebar-Assembly.stl:  Using a 7u spacebar. 7U spacebars aren't as common, but can be found in some kits.  
 mx to amiga stem adapter.stl:  Adapter orginal Amiga 600 keys with MX switches 
-
+7U_Spacebar.stl: pulled from https://www.thingiverse.com/thing:5976700
+A600-key alignment plate-left.stl:  Modified to work with regular keycaps in hindsight I should have just done this from scratch
+A600-key alignment plate-right.stl: same but left side
+A600 OEM to MX Spacebar adapter plate.stl: Use the OEM spacebar with PCB
+a600 keyboard shim.stl: centers keyboard vertically  and horizonatally
